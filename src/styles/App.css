@@ -1,5 +1,5 @@
 .bgImg{
-  background-image: url('C:\Users\AmiT\Desktop\weather\public\images\bgimg.jpg');
+  background-image: url(../../public/images/bgimg.jpg);
   height: 100vh;
   overflow: hidden;
   background-position: center;
